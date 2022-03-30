@@ -1,0 +1,1 @@
+class RessetPassword1ItemModel { }

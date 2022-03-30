@@ -1,0 +1,1 @@
+class MyOrderEmpty1Model { }

@@ -1,0 +1,1 @@
+class FavoritesResturents1Model { }
