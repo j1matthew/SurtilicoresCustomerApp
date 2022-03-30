@@ -1,0 +1,1 @@
+class SearchFood1Model { }

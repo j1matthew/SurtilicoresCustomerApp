@@ -1,0 +1,1 @@
+class VefificationCode1ItemModel { }
